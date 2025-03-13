@@ -1,2 +1,2 @@
-# mt_profile
+# my_profile
 my project
